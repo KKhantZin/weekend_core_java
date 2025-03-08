@@ -1,0 +1,16 @@
+
+concrete class -> extends concrete class (may or may not override)
+concrete class -> extends abstract class (must override abstract mehtod)
+abstract class -> extends abstract class (may or may not override abstract class)
+abstract class -> extends concrete class
+
+============================================
+varies of class
+***************
+class
+abstract
+interface
+
+11+
+record
+sealed
